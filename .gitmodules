@@ -1,0 +1,3 @@
+[submodule "aoc-helper"]
+	path = helper
+	url = git@github.com:Sinitax/aoc-helper
